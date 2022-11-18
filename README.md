@@ -1,3 +1,8 @@
+基于 yt-dlp 的图形化下载工具。
+它的特点在于支持自定义下载引擎，可以将 yt-dlp、lux、you-get、gallery-dl、aria2c、wget 等全集成在一起
+![image](https://user-images.githubusercontent.com/51910964/202624281-84eed16e-4c94-4f9c-9397-13e0791e8ab5.png)
+
+
 # media-downloader
 
 This project is a Qt/C++ based GUI frontend to CLI multiple CLI based tools that deal with downloading online media.
